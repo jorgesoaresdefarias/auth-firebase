@@ -1,7 +1,6 @@
-# Front End Mentor Projects - nível: Junior
+# Flutter Authentication
 
 Projeto de Autenticação em Flutter usando Firebase
-
 
 ## ✒️ Autores
 
